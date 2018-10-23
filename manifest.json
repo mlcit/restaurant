@@ -4,16 +4,16 @@
   "theme_color": "#212529",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/restaurant/",
+  "start_url": "/restaurant/",
   "icons": [
     {
-      "src": "assets/icon-192.png",
+      "src": "/restaurant/assets/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "assets/icon-512.png",
+      "src": "/restaurant/assets/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
